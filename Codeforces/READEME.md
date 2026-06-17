@@ -11,3 +11,9 @@
 - **Difficulty:** Easy
 - **Platform:** Codeforces (Assiut Sheet)
 - **Status:** Solved
+
+## #3 Equation 
+- **Link:** https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/F
+- **Difficulty:** Easy
+- **Platform:** Codeforces (Assiut Sheet)
+- **Status:** Solved
