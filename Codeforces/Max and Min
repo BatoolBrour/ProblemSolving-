@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std ; 
+void maxANDmin(int s ,int nums[]){
+    int min=nums[0];int max=nums[0];
+    for(int i=1;i<s;i++){
+        if(nums[i]>max)
+        max=nums[i];
+        else if(nums[i]<min)
+        min=nums[i];
+    }
+     cout<<min<<" "<<max;
+}
+int main()
+{
+   int size ;cin>>size; int nums[size]; 
+   for(int i=0;i<size;i++)
+   cin>>nums[i];
+  maxANDmin(size,nums);
+    return 0;
+}
