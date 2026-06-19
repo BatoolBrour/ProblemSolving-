@@ -17,3 +17,9 @@
 - **Difficulty:** Easy
 - **Platform:** Codeforces (Assiut Sheet)
 - **Status:** Solved
+
+## #4 Max and Min 
+- **Link:** https://codeforces.com/group/MWSDmqGsZm/contest/223205/my
+- **Difficulty:** Easy
+- **Platform:** Codeforces (Assiut Sheet)
+- **Status:** Solved
