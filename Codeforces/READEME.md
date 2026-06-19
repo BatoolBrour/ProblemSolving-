@@ -23,3 +23,9 @@
 - **Difficulty:** Easy
 - **Platform:** Codeforces (Assiut Sheet)
 - **Status:** Solved
+
+## #5 N Times  
+- **Link:** https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H
+- **Difficulty:** Easy
+- **Platform:** Codeforces (Assiut Sheet)
+- **Status:** Solved
