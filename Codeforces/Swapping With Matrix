@@ -1,0 +1,38 @@
+#include <iostream>
+using namespace std ;
+const int MAXN=500;
+void Matrix(int size ,int s[][MAXN],int x,int y){
+    int temp;
+  for(int i=0;i<size;i++){
+        temp=s[x][i];
+        s[x][i]=s[y][i];
+        s[y][i]=temp;
+      
+  }  
+  for(int i=0;i<size;i++){
+      temp=s[i][x];
+      s[i][x]=s[i][y];
+      s[i][y]=temp;
+  }
+}
+int main()
+{
+    int size ; int x; int y ; cin>>size>>x>>y;
+    x--;y--;
+    int matrix[MAXN][MAXN];
+    for(int i=0;i<size;i++){
+        for(int j=0;j<size;j++){
+            cin>>matrix[i][j];
+        }
+    }
+    Matrix(size,matrix,x,y);
+    for(int i=0;i<size;i++){
+        for(int j=0;j<size;j++){
+            cout<<matrix[i][j]<<" ";
+        }
+        cout<<endl;
+    }
+
+
+    return 0;
+}
