@@ -29,3 +29,9 @@
 - **Difficulty:** Easy
 - **Platform:** Codeforces (Assiut Sheet)
 - **Status:** Solved
+
+## #6 Swapping With Matrix 
+- **Link:** https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/I
+- **Difficulty:** Easy
+- **Platform:** Codeforces (Assiut Sheet)
+- **Status:** Solved
